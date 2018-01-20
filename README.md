@@ -6,6 +6,7 @@ steem-js API 명세입니다.
 # 다른 APIs
 
 Steem REST API : https://github.com/busyorg/steem-api
+
 Usage:
 You can use Steem blockchain API methods this way:
 
