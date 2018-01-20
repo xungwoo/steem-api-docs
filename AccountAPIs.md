@@ -1,6 +1,6 @@
 ## Accounts
 
-### [Get Accounts](https://github.com/xungwoo/steem-api-docs/blob/master/getAccounts)
+### [Get Accounts](https://github.com/xungwoo/steem-api-docs/blob/master/getAccounts.md)
 ```
 steem.api.getAccounts(names, function(err, result) {
   console.log(err, result);
