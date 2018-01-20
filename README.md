@@ -2,6 +2,8 @@
 
 steem-js API 명세입니다. 
 
+Swagger 명세 : http://steem.esteem.ws/#/
+
 
 # 다른 APIs
 
