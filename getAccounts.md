@@ -1,5 +1,5 @@
 ## Response
-
+```json
 [
   {
     "id": 512037,
@@ -79,3 +79,4 @@
     "guest_bloggers": []
   }
 ]
+```
