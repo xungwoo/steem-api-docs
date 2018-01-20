@@ -308,7 +308,7 @@ steem.api.getKeyReferences(key, function(err, result) {
 
 ## Accounts
 
-### Get Accounts
+### [Get Accounts](https://github.com/xungwoo/steem-api-docs/blob/master/getAccounts)
 ```
 steem.api.getAccounts(names, function(err, result) {
   console.log(err, result);
