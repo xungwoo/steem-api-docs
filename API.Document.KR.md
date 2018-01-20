@@ -10,7 +10,7 @@
     - [Blocks and transactions](#blocks-and-transactions)
     - [Globals](#globals)
     - [Keys](#keys)
-    - [Accounts](#accounts)
+    - [Accounts](https://github.com/xungwoo/steem-api-docs/blob/master/Account%20APIs)
     - [Market](#market)
     - [Authority / validation](#authority--validation)
     - [Votes](#votes)
